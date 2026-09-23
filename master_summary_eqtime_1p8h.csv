@@ -1,0 +1,4 @@
+texture,phase_run_id,schedule_name,solver_variant,omega,tol,max_iter,max_dh,Q_Lh,emitter_radius_cm,fw_threshold,t_final_h,depth_cm,radial_extent_cm,width_cm,shape,nonconv_ratio,storage_ratio,rescued_steps,mean_iter,runtime_s,display_subtitle,npz_file
+Loamy Sand,C2_R2,coarse_ultra_transition,coarse_A,0.32,0.0006,65,16.0,0.5,1.0,0.4,1.8,13.5,8.5,17.0,1.588235294117647,0.18128654970760233,0.9941615061209101,18,53.026315789473685,1783.1189439296722,H4 reference,loamy_sand_master_eqtime_1p8h.npz
+Loam,M3_R1,medium_safe_track,medium_A,0.25,0.0006,70,14.0,0.5,1.0,0.4,1.8,12.5,15.5,31.0,0.8064516129032258,0.10884353741496598,0.8958636704173202,0,52.78741496598639,2243.481882095337,H4 reference,loam_master_eqtime_1p8h.npz
+Clay Loam,C5_R1,fine_careful_start,candidate_A,0.24,0.0006,80,13.0,0.5,1.0,0.4,1.7999999999999936,17.5,19.5,39.0,0.8974358974358975,0.39768339768339767,0.930035230293767,0,76.41827541827541,5459.63120675087,CL_E1 | TF18,clay_loam_master_eqtime_1p8h.npz

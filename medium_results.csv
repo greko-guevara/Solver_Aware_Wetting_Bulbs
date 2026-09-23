@@ -1,0 +1,8 @@
+,ID,Cycle,Schedule,Base,Variant,nonconv_ratio,storage_ratio,rescued_steps,runtime_s
+0,M1_R1,M1,medium_ref_554,medium_balanced,medium_A,0.084838,0.90254,1,872.884154
+1,M1_R2,M1,medium_ref_554,medium_balanced,medium_A,0.126354,0.901055,0,1013.57701
+2,M1_R3,M1,medium_ref_554,medium_balanced,medium_B,0.088448,0.90251,0,629.883224
+3,M2_R1,M2,medium_soft_554,medium_conservative,medium_B,0.100548,0.903988,0,1141.024085
+4,M2_R2,M2,medium_soft_554,medium_balanced,medium_C,0.078611,0.903673,0,596.881426
+5,M3_R1,M3,medium_safe_track,medium_conservative,medium_A,0.117547,0.900474,0,679.268314
+6,M3_R2,M3,medium_ref_554,medium_flexible,medium_C,0.074007,0.87959,0,493.760874
